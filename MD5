@@ -1,0 +1,13 @@
+b5931ba6c60276eafbf14ec7bec79e2f *DESCRIPTION
+95e3753e8c992ea9c5d39ea59f72859c *LICENSE
+b88a702377feaec8c9e8a1ed89a8f707 *NAMESPACE
+49930768f71b998c22b5de3f14a17f7b *R/main.R
+b7cb429a331d2af31b9b1e6039003bf0 *R/utils.R
+797e4c0ba294ae7a542021a5540e60e6 *R/wordPuzzleR-package.R
+a2712afaf2445068c7b3e338f8c1b9ee *R/zzz.R
+52b056693b4d3d931bf5a49fc75b3d79 *README.md
+d6aeb0d45f572415095b9fde7e36812a *inst/resources/dict.txt
+5ae848b19770278375ca17f426c5cdb2 *man/config_game.Rd
+502a5f8dd6ba90060101596366cb7d58 *man/figures/README-pressure-1.png
+ac7dff7d3f1ae940d201aada159d2fdd *man/run_game.Rd
+15964e603500a3d4e5dd5f7ce059316c *man/wordPuzzleR-package.Rd
